@@ -1,0 +1,6 @@
+transformers
+nltk
+torch
+opencv-python
+spacy
+pillow
